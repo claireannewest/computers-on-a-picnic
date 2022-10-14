@@ -1,0 +1,5 @@
+filename,file_size,file_attributes,region_count,region_id,region_shape_attributes,region_attributes
+S26-2h_ETD_002.png,11474095,"{}",4,0,"{""name"":""polygon"",""all_points_x"":[1424,1510,1552,1510,1431,1376],""all_points_y"":[572,572,648,710,717,638]}","{""shape"":""kite""}"
+S26-2h_ETD_002.png,11474095,"{}",4,1,"{""name"":""polygon"",""all_points_x"":[1600,1631,1638,1627,1603,1589],""all_points_y"":[590,590,610,634,634,614]}","{""shape"":""chair""}"
+S26-2h_ETD_002.png,11474095,"{}",4,2,"{""name"":""polygon"",""all_points_x"":[2469,2555,2596,2544,2465,2427],""all_points_y"":[197,203,265,338,338,262]}","{""shape"":""hexagon""}"
+S26-2h_ETD_002.png,11474095,"{}",4,3,"{""name"":""rect"",""x"":2432,""y"":2085,""width"":424,""height"":5}","{""shape"":""scalebar"",""scalebar-length"":""1 um""}"
